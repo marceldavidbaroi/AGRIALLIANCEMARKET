@@ -83,8 +83,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ![image](https://github.com/marceldavidbaroi/AGRIALLIANCEMARKET/assets/159849210/e520f8c3-8d3c-477f-89e9-d5d26c63ef96)
 ![image](https://github.com/marceldavidbaroi/AGRIALLIANCEMARKET/assets/159849210/8ca8b6fe-3444-421d-8829-ffd41954a0c3)
-<<<<<<< HEAD
-![image](https://github.com/marceldavidbaroi/AGRIALLIANCEMARKET/assets/159849210/433975f5-6486-491d-bc78-ffd31954a0c3)
-=======
->>>>>>> 3169a58b1ad75abd24bb6835d37376170d6a5c0b
-![image](https://github.com/marceldavidbaroi/AGRIALLIANCEMARKET/assets/159849210/b608ed67-55a7-4707-bb41-fd6f5c004da8)
+![image](https://github.com/marceldavidbaroi/Krishoker_Hashi/assets/159849210/c0c167bf-da9b-4ee1-9359-38356f287200)
